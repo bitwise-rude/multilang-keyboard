@@ -9,14 +9,17 @@ A simple Python application that acts as a real-time translator for text input a
 ## Usage ⌨️
 
 1.  **Start the application:** Run `main.py`. A small window with an ON/OFF button will appear.
-2.  **Turn it on:** Click the button to activate the translator. The button's text will turn green.
-3.  **To translate what you type:**
+2.  You can also use the pre-compiled 'UkraineEasy.exe' inside the dist folder. It is precompiled for Ukrainian
+3.  **Turn it on:** Click the button to activate the translator. The button's text will turn green.
+4.  **To translate what you type:**
       - Type your message in any text field (e.g., a chat box).
       - Press the **`Insert`** key.
       - The application will automatically delete your original text and paste the translated version.
-4.  **To translate copied text:**
+5.  **To translate copied text:**
       - Simply copy text to your clipboard.
       - The translated text will appear in a pop-up alert box.
+
+<img width="426" height="235" alt="image" src="https://github.com/user-attachments/assets/84af27e9-da6e-4eae-b0b8-c9ded2007d6d" />
 
 -----
 
